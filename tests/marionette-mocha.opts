@@ -1,3 +1,0 @@
---timeout 300s
---profile-base ./shared/test/integration/profile.js
-./shared/test/integration/setup.js

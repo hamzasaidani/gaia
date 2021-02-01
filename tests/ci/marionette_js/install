@@ -1,4 +1,0 @@
-#! /bin/bash -vex
-
-echo "Downloading Mulet"
-make mulet
